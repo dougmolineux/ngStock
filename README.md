@@ -8,8 +8,8 @@ This project is still in early development. A hosted version of this project can
 Goals
 =======
 
-Enable selling of stock
-Storing earned money in localStorage
+1. Enable selling of stock
+2. Storing earned money in localStorage
 
 Screenshots
 =======
