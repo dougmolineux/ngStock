@@ -1,0 +1,12 @@
+<div class="one-third column">
+	<h3>{{ cstock.companyName }}</h3>
+	<h4>Ticker Symbol: {{ cstock.tickerSymbol }}</h4>
+	<p>
+		<ul class="square">
+			<li>Stock Value: {{ cstock.stockValue }}</li>
+			<li>% Change: <span ng-style="setColor(cstock)">{{ cstock.perChange }}</span></li>
+			<li>$ Change: {{ cstock.priceChange }}</li>
+		</ul>
+		<button style="width:80%" ng-click="buyStock(cstock)">Buy Stock</button>
+	</p>
+</div>
