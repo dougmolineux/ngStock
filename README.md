@@ -5,7 +5,9 @@ Stock Buying Simulator written in AngularJS. Uses PHP and a list of NASDAQ stock
 
 This project is still in early development. A hosted version of this project can be found here: http://dougmolineux.com/stock/
 
-Goals
+Initially, I intended to use this project to become more familiar with AngularJS
+
+To Do
 =======
 
 1. Enable selling of stock
